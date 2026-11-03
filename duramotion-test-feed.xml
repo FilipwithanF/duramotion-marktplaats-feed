@@ -4479,7 +4479,7 @@
     </shippingOptions>
     <phoneNumber>0633339406</phoneNumber>
     <emailAdvertiser>true</emailAdvertiser>
-    <status>ACTIVE</status>
+    <status>PAUSED</status>
     <vendorId>DM-0128</vendorId>
     <microTip>20 stuks</microTip>
     <productType>Doe-het-zelf en Verbouw &gt; Zonnepanelen en Toebehoren</productType>
@@ -4500,7 +4500,7 @@
     </shippingOptions>
     <phoneNumber>0633339406</phoneNumber>
     <emailAdvertiser>true</emailAdvertiser>
-    <status>ACTIVE</status>
+    <status>PAUSED</status>
     <vendorId>DM-0129</vendorId>
     <microTip>3 stuks</microTip>
     <productType>Doe-het-zelf en Verbouw &gt; Zonnepanelen en Toebehoren</productType>
@@ -4522,7 +4522,7 @@
     </shippingOptions>
     <phoneNumber>0633339406</phoneNumber>
     <emailAdvertiser>true</emailAdvertiser>
-    <status>ACTIVE</status>
+    <status>PAUSED</status>
     <vendorId>DM-0130</vendorId>
     <microTip>6 stuks</microTip>
     <productType>Doe-het-zelf en Verbouw &gt; Zonnepanelen en Toebehoren</productType>
@@ -4543,7 +4543,7 @@
     </shippingOptions>
     <phoneNumber>0633339406</phoneNumber>
     <emailAdvertiser>true</emailAdvertiser>
-    <status>ACTIVE</status>
+    <status>PAUSED</status>
     <vendorId>DM-0131</vendorId>
     <microTip>2 stuks</microTip>
     <productType>Doe-het-zelf en Verbouw &gt; Zonnepanelen en Toebehoren</productType>
@@ -4564,7 +4564,7 @@
     </shippingOptions>
     <phoneNumber>0633339406</phoneNumber>
     <emailAdvertiser>true</emailAdvertiser>
-    <status>ACTIVE</status>
+    <status>PAUSED</status>
     <vendorId>DM-0132</vendorId>
     <microTip>14 stuks</microTip>
     <productType>Doe-het-zelf en Verbouw &gt; Zonnepanelen en Toebehoren</productType>
@@ -4585,7 +4585,7 @@
     </shippingOptions>
     <phoneNumber>0633339406</phoneNumber>
     <emailAdvertiser>true</emailAdvertiser>
-    <status>ACTIVE</status>
+    <status>PAUSED</status>
     <vendorId>DM-0133</vendorId>
     <microTip>4 stuks</microTip>
     <productType>Doe-het-zelf en Verbouw &gt; Zonnepanelen en Toebehoren</productType>
@@ -6324,6 +6324,48 @@
     <status>ACTIVE</status>
     <vendorId>DM-0441</vendorId>
     <microTip>27 stuks</microTip>
+    <productType>Doe-het-zelf en Verbouw &gt; Zonnepanelen en Toebehoren</productType>
+    <brand>Marstek</brand>
+  </ad>
+  <ad>
+    <sellerName>Duramotion</sellerName>
+    <categoryId>2622</categoryId>
+    <title>2x Solar Edge S500</title>
+    <description>&lt;p&gt;Solar Edge S500&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Merk:&lt;/strong&gt; Solar Edge&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Model:&lt;/strong&gt; S500&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Voorraad:&lt;/strong&gt; 2 stuks&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Genoemde prijs is &lt;strong&gt;voor de hele partij van 2 stuks samen, incl. 21% btw&lt;/strong&gt; (komt neer op €47,43 per stuk). Bieden vanaf dit bedrag.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Alleen de complete voorraad wordt in één keer verkocht&lt;/strong&gt; (alle 2 stuks); losse stuks zijn niet te koop.&lt;/p&gt;&lt;p&gt;Ophalen in Hoensbroek (6433 KG) of verzenden in overleg. Verkoop door Duramotion B.V., zakelijke restpartijen zonne-energie.&lt;/p&gt;</description>
+    <price>9486</price>
+    <priceType>BIDDING_FROM</priceType>
+    <media>
+      <image url="https://io-solar.com/wp-content/uploads/SOLAREDGE-S500-1GM4MRM-front.jpg"/>
+    </media>
+    <shippingOptions>
+      <shippingOption><shippingType>PICKUP</shippingType><location>6433KG</location></shippingOption>
+    </shippingOptions>
+    <phoneNumber>0633339406</phoneNumber>
+    <emailAdvertiser>true</emailAdvertiser>
+    <status>ACTIVE</status>
+    <vendorId>DM-0442</vendorId>
+    <microTip>2 stuks</microTip>
+    <productType>Doe-het-zelf en Verbouw &gt; Zonnepanelen en Toebehoren</productType>
+    <brand>Solar Edge</brand>
+  </ad>
+  <ad>
+    <sellerName>Duramotion</sellerName>
+    <categoryId>2622</categoryId>
+    <title>2x Marstek Venus D uitbreidingsbatterij 2,56 kWh</title>
+    <description>&lt;p&gt;Marstek Venus D uitbreidingsbatterij 2,56 kWh&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Merk:&lt;/strong&gt; Marstek&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Model:&lt;/strong&gt; Venus D uitbreidingsbatterij 2,56 kWh&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Fabriekscode:&lt;/strong&gt; MST-E2-5ST-D&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Voorraad:&lt;/strong&gt; 2 stuks&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Genoemde prijs is &lt;strong&gt;voor de hele partij van 2 stuks samen, incl. 21% btw&lt;/strong&gt; (komt neer op €300,30 per stuk). Bieden vanaf dit bedrag.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Alleen de complete voorraad wordt in één keer verkocht&lt;/strong&gt; (alle 2 stuks); losse stuks zijn niet te koop.&lt;/p&gt;&lt;p&gt;Ophalen in Hoensbroek (6433 KG) of verzenden in overleg. Verkoop door Duramotion B.V., zakelijke restpartijen zonne-energie.&lt;/p&gt;</description>
+    <price>60060</price>
+    <priceType>BIDDING_FROM</priceType>
+    <media>
+      <image url="https://1asol.de/cdn/shop/files/Marstek_Venus_D_Erweiterungsakku_2_56_kWh_9e63296d-e5c1-4018-80f4-6ef8eec3de49.png?v=1769945671&amp;width=1890"/>
+    </media>
+    <shippingOptions>
+      <shippingOption><shippingType>PICKUP</shippingType><location>6433KG</location></shippingOption>
+    </shippingOptions>
+    <phoneNumber>0633339406</phoneNumber>
+    <emailAdvertiser>true</emailAdvertiser>
+    <status>ACTIVE</status>
+    <vendorId>DM-0443</vendorId>
+    <microTip>2 stuks</microTip>
     <productType>Doe-het-zelf en Verbouw &gt; Zonnepanelen en Toebehoren</productType>
     <brand>Marstek</brand>
   </ad>
