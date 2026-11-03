@@ -1415,7 +1415,7 @@
     <price>5434</price>
     <priceType>BIDDING_FROM</priceType>
     <media>
-      <image url="https://media.elektrobode.nl/images/product/solar-construct-roboost-steelroof-golf-incl-epdm-4319000125.jpg"/>
+      <image url="https://raw.githubusercontent.com/FilipwithanF/duramotion-marktplaats-feed/main/afbeeldingen/DM-0229-steelroof-golf.jpg"/>
     </media>
     <shippingOptions>
       <shippingOption><shippingType>PICKUP</shippingType><location>6433KG</location></shippingOption>
